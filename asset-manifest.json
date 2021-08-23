@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/vishalsite/static/css/main.f8287040.chunk.css",
+    "main.js": "/vishalsite/static/js/main.94273a60.chunk.js",
+    "main.js.map": "/vishalsite/static/js/main.94273a60.chunk.js.map",
+    "runtime-main.js": "/vishalsite/static/js/runtime-main.a08a535c.js",
+    "runtime-main.js.map": "/vishalsite/static/js/runtime-main.a08a535c.js.map",
+    "static/css/2.818011ed.chunk.css": "/vishalsite/static/css/2.818011ed.chunk.css",
+    "static/js/2.e036b61a.chunk.js": "/vishalsite/static/js/2.e036b61a.chunk.js",
+    "static/js/2.e036b61a.chunk.js.map": "/vishalsite/static/js/2.e036b61a.chunk.js.map",
+    "index.html": "/vishalsite/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/vishalsite/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.f8287040.chunk.css.map": "/vishalsite/static/css/main.f8287040.chunk.css.map",
+    "static/js/2.e036b61a.chunk.js.LICENSE.txt": "/vishalsite/static/js/2.e036b61a.chunk.js.LICENSE.txt",
+    "static/media/android.3ea5c6fa.jpg": "/vishalsite/static/media/android.3ea5c6fa.jpg",
+    "static/media/app.13ed0da3.jpg": "/vishalsite/static/media/app.13ed0da3.jpg",
+    "static/media/digital.0ba4d76e.jpg": "/vishalsite/static/media/digital.0ba4d76e.jpg",
+    "static/media/img2.68e9c6ca.jpg": "/vishalsite/static/media/img2.68e9c6ca.jpg",
+    "static/media/img3.e6c13ba5.jpg": "/vishalsite/static/media/img3.e6c13ba5.jpg",
+    "static/media/marketing.fd82a593.jpg": "/vishalsite/static/media/marketing.fd82a593.jpg",
+    "static/media/software.e24bf3cb.jpg": "/vishalsite/static/media/software.e24bf3cb.jpg",
+    "static/media/web.67763b69.jpg": "/vishalsite/static/media/web.67763b69.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a08a535c.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.e036b61a.chunk.js",
+    "static/css/main.f8287040.chunk.css",
+    "static/js/main.94273a60.chunk.js"
+  ]
+}
